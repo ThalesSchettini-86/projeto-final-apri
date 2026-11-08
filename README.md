@@ -49,4 +49,4 @@ Este projeto foi desenvolvido para aplicar os conceitos estudados na disciplina 
 
 Projeto acadêmico desenvolvido como atividade final da disciplina de Algoritmos e Programação I.
 
-**Autores:** Thales Schettini de Moraes e Thiago Luiz da Silva.
+**Autor:** Thales Schettini de Moraes
